@@ -3,3 +3,4 @@
 Commit 2 line
 Added feature toggle support
 Minor wording tweak
+Clarify config usage
