@@ -7,3 +7,4 @@ Clarify config usage
 Fix typo in instructions
 Update setup notes
 Expand intro section
+Improve explanation of flags
