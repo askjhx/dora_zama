@@ -14,3 +14,4 @@ Commit 10 line
 Update example output
 Add missing CLI param details
 Minor grammar fix
+Tweak section titles for clarity
